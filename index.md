@@ -11,3 +11,10 @@
 $ git clone https://github.com/cyberfantics/py-to-exe
 It clone the project in local repository
 ```
+
+### Added task list
+```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+```
